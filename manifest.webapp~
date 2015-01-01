@@ -1,0 +1,16 @@
+{
+  "name": "Tasbih",
+  "version": "1.00",
+  "description": "Tasbih is an Islamic Prayer Counter application that allows you to perform Tasbeeh count while you are travelling, in office, mosque anywhere.",
+  "launch_path": "/index.html",
+  "icons": {
+    "64": "/img/icons/icon-64.png",
+    "128": "/img/icons/icon-128.png",
+    "512": "/img/icons/icon-512.png"
+  },
+  "developer": {
+    "name": "Rashik Ishrak Nahian",
+    "url": "http://about.me/r.i.nahian"
+  },
+  "default_locale": "en"
+}
